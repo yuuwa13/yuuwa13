@@ -50,7 +50,7 @@ Fullstack web developer with a focus on backend development. Experienced in data
 
 - 🤖 Currently learning automation, with ambitions to scale projects for greater impact
 - 🥇 MVP of a school cybersecurity hackathon
-- 🎓 DOST-SEI scholar and member of <b>START</b> (Scholars Transforming Advancement and Research for Technology)
+- 🎓 DOST-SEI scholar and a Deputy Chief of Finance Officer of <b>START</b> (Scholars Transforming Advancement and Research for Technology)
 - 📚 Enjoys reading manhua/manhwa and playing Valorant in free time
 - 🎯 Aspiring to become a fullstack developer post-graduation, with ongoing interests in data engineering and cybersecurity
 
