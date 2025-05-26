@@ -12,7 +12,7 @@
 
 ## 🛠️ Profession / Area of Expertise
 
-Fullstack web developer with a focus on backend development. Experienced in data engineering to streamline and optimize data processes.
+Fullstack web developer with a focus on backend development. Also learning data engineering to streamline and optimize data processes.
 
 ---
 
