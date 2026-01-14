@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Fullstack Web Developer | Backend Specialist | Data Engineering Enthusiast</b>
+  <b>Fullstack Web Developer | Frontend Specialist | Data Engineering Enthusiast</b>
 </p>
 
 ---
